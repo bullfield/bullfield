@@ -1,6 +1,7 @@
+{
   "redirect" : {
 
-"JSON_POPUP_WAIT" : "Server Ready",
+"JSON_POPUP_WAIT" : "Server Ready - v20j15",
 
 "TOAST_NOTIF" : false,
 
@@ -59,7 +60,14 @@
 "BUTTON_SHARE" : "SHARE TO FRIEND",
 "BUTTON_START" : "START",
 
-"EXIT_POPUP_DIALOG" : "",
+"EXIT_POPUP_DIALOG" : "
+jika kamu menikmati aplikasi ini
+
+bantu kami dengan rating bintang 5 ya
+
+klik tombol rating
+
+",
 "RATE_BUTTON" : "RATING 5 STARS",
 "LATER_BUTTON" : "LATER",
 "ENABLE_SHARE_BUTTON" : true,
