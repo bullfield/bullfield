@@ -1,7 +1,7 @@
 {
   "redirect" : {
 
-"JSON_POPUP_WAIT" : "Server Ready - v20j15",
+"JSON_POPUP_WAIT" : "Server Bullfield Ready",
 
 "TOAST_NOTIF" : false,
 
@@ -61,11 +61,11 @@
 "BUTTON_START" : "START",
 
 "EXIT_POPUP_DIALOG" : "
-jika kamu menikmati aplikasi ini
+if you enjoying this app
 
-bantu kami dengan rating bintang 5 ya
+please give us 5 stars
 
-klik tombol rating
+click rating button
 
 ",
 "RATE_BUTTON" : "RATING 5 STARS",
